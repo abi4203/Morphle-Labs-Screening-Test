@@ -19,3 +19,27 @@ Clone the repository to your local machine using Git:
 
 ```bash
 git clone https://github.com/yourusername/yourrepository.git
+```
+###2. Navigate to the project directory
+
+Change to the project directory:
+
+```bash
+cd yourrepository
+```
+#### 3. Create a Python virtual environment
+
+Create a Python virtual environment to isolate your dependencies:
+
+```bash
+
+python3 -m venv venv
+```
+This will create a venv folder containing the virtual environment.
+
+### 4. Activate the virtual environment
+
+```bash
+venv\Scripts\activate
+```
+
