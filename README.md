@@ -43,3 +43,18 @@ This will create a venv folder containing the virtual environment.
 venv\Scripts\activate
 ```
 
+### 5. Install the required dependencies
+Once the virtual environment is activated, install the required dependencies listed in the requirements.txt file:
+
+``` bash
+pip install -r requirements.txt
+```
+### 6. Run the Flask application
+To start the Flask web application, run the following command:
+
+```bash
+
+flask run
+```
+
+
