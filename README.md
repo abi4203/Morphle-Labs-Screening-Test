@@ -13,3 +13,9 @@ This project is a simple Flask web application that provides an `/htop` endpoint
 - The `/htop` endpoint returns information related to the system using Python's `os` and `psutil` libraries.
 - Publicly accessible via the assigned port on GitHub Codespaces or your local server.
 
+### 1. Clone the repository
+
+Clone the repository to your local machine using Git:
+
+```bash
+git clone https://github.com/yourusername/yourrepository.git
